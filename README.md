@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Bachar Bouguerra Zina
 
-<!--
-**Bachar02/Bachar02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An ambitious engineering student passionate about **NLP, Computer Vision, and AI Development**.
+---
 
-Here are some ideas to get you started:
+## 🧠 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧪 **AI & Machine Learning**: Building smart applications using deep learning (CNNs, RNNs), real-time computer vision, and predictive models.
+- ⚡ **Hackathons & Innovation**: 🏆 Winner of 2 national hackathons with impactful projects like **AIgroFarm** and **Dhawwini**.
+
+---
+
+## 🔥 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🦴 **Bone Fracture Detector** | Mobile app that detects fractures from X-ray images in real-time. | `Flutter`, `TensorFlow Lite`, `CNN`, `OpenCV` |
+| 🌿 **AIgroFarm** | Smart agriculture solution for crop analysis & prediction. | `Python`, `Flask`, `OpenCV`, `ML` |
+| ⚙️ **EV Predictive Maintenance** | RUL prediction for EVs using NASA C-MAPSS dataset. | `Python`, `RNN`, `LSTM`, `Streamlit` |
+| 🧤 **Gesture-Controlled Chrome Extension** | Real-time video playback control via hand gestures. | `MediaPipe`, `JavaScript`, `Computer Vision` |
+
+---
+
+
+
+## 📚 Certifications & Courses
+
+- ✅ **Andrew Ng ML Specialization** – Deep understanding of ML algorithms
+- ✅ **Computer Vision Bootcamps** – Real-time image/video processing
+
+---
+
+## 📬 Let’s Connect
+
+- [LinkedIn]([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/bouguerra-bachar/))
+- [Email](bachar.bouguerrazina@insat.ucar.tn)
+- 🌍 Looking for part-time AI opportunities & internships
+
+---
+
+## 🧑‍💻 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Bachar02&show_icons=true&theme=tokyonight)
+
+---
+
+## 📝 Fun Fact
+
+> I turned a laptop webcam into a gesture-controlled AI remote control and used it to skip YouTube ads hands-free 😄
