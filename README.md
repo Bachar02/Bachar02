@@ -55,7 +55,7 @@ An ambitious engineering student passionate about **Machine Learning, NLP, Compu
 |--------|-------------|------------|
 | 🦴 **Bone Fracture Detector** | Mobile app that detects fractures from X-ray images in real-time. | `Flutter`, `TensorFlow Lite`, `CNN`, `OpenCV` |
 | 🌿 **AIgroFarm** | Smart agriculture solution for crop analysis & prediction. | `Python`, `Flask`, `OpenCV`, `ML` |
-| ⚙️ **EV Predictive Maintenance** | RUL prediction for EVs using NASA C-MAPSS dataset. | `Python`, `RNN`, `LSTM`, `Streamlit` |
+| ⚙️ **TurboFan Engine Predictive Maintenance** | RUL prediction for Turbofan engines using NASA C-MAPSS dataset. | `Python`, `RNN`, `LSTM`, `Streamlit` |
 | 🧤 **AI Gesture-Controlled Tool** | Real-time video playback control via hand gestures. | `Python`, `MediaPipe`, `Computer Vision` |
 | 💬 **Real Estate Rasa Chatbot** | Chatbot for extracting and filtering real estate listings from web-scraped data. | `Python`, `Rasa`, `Web Scraping`, `NLP` |
 
