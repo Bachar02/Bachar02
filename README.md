@@ -87,3 +87,8 @@ An ambitious engineering student passionate about **Machine Learning, NLP, Compu
 ## 📝 Fun Fact
 
 > I turned a laptop webcam into a gesture-controlled AI remote control and used it to skip YouTube ads hands-free 😄
+
+
+
+https://github.com/user-attachments/assets/be32ba5a-96a8-46b9-b381-b4aa6b00ae15
+
