@@ -72,7 +72,7 @@ An ambitious engineering student passionate about **Machine Learning, NLP, Compu
 
 ## 📬 Let’s Connect
 
-- [LinkedIn]([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/bouguerra-bachar/))
+- [LinkedIn](https://www.linkedin.com/in/bouguerra-bachar/)
 - [Email](bachar.bouguerrazina@insat.ucar.tn)
 - 🌍 Looking for part-time AI opportunities & internships
 
