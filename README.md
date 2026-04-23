@@ -1,5 +1,5 @@
 
-> `🟢 OPEN TO WORK` — AI Engineering · Internship · Part-time
+> `🟢 OPEN TO WORK` — AI Engineering
 
 ---
 
