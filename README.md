@@ -1,29 +1,44 @@
-
-> `🟢 OPEN TO WORK` — AI Engineering
+<!-- OPEN TO WORK -->
+> `🟢 OPEN TO WORK` — AI Engineering 
 
 ---
 
 # Bachar Bouguerra Zina
 
-**AI Engineering Student** · Tunisia · 2× National Hackathon Winner
+**AI Engineering Student** · INSAT Tunisia · 3× National Hackathon Winner
 
-![ML](https://img.shields.io/badge/Machine%20Learning-1D9E75?style=flat-square&logoColor=white)
+![LLM](https://img.shields.io/badge/LLMs%20%26%20RAG-D85A30?style=flat-square&logoColor=white)
+![MLE](https://img.shields.io/badge/ML%20Engineering-1D9E75?style=flat-square&logoColor=white)
 ![CV](https://img.shields.io/badge/Computer%20Vision-378ADD?style=flat-square&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP%20%2F%20Deep%20Learning-7F77DD?style=flat-square&logoColor=white)
-![Deploy](https://img.shields.io/badge/Model%20Deployment-BA7517?style=flat-square&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-BA7517?style=flat-square&logoColor=white)
 
-I design and deploy end-to-end AI systems — training CNNs, RNNs, and LSTMs and shipping them into production mobile and web apps. My focus is making models useful in the real world, not just accurate in notebooks.
+I build and ship end-to-end AI systems — from fine-tuning LLMs and architecting RAG pipelines to deploying CNNs and LSTMs in production APIs and mobile apps. My focus is the full journey: research to real-world inference.
 
 ---
 
 ## AI / ML expertise
 
-| Domain | Tools & techniques |
+| Domain | Tools & highlights |
 |---|---|
-| **Computer Vision** | CNNs, TFLite mobile deployment, OpenCV pipelines, MediaPipe |
-| **Sequence Models** | LSTM, RNN for time-series & predictive maintenance |
-| **NLP & Conversational AI** | Rasa, intent recognition, entity extraction |
-| **ML Stack** | TensorFlow · Keras · scikit-learn · Pandas · NumPy · Jupyter |
+| **LLMs & Generative AI** | Fine-tuned PHI-3 Mini & Mistral (LoRA + quantization, <3 GB VRAM) · LangChain · Ollama · Text-to-SQL (97% acc) |
+| **RAG Pipelines** | RAG system design & deployment · NVIDIA DLI certified · Hugging Face · Vector DBs |
+| **ML Engineering & MLOps** | FastAPI microservices · Docker · MLflow · CI/CD · model registries · 17k+ flights automated |
+| **Computer Vision & Sequences** | CNN (93% acc) · LSTM/RNN · TFLite mobile · OpenCV · MediaPipe · XGBoost |
+
+---
+
+## Production experience
+
+**AI Engineer Intern — YONNOV'IA, Marseille** *(Jun – Aug 2025)*
+- Deployed GenAI virtual assistant inside Odoo 17 ERP — <5s response, >90% accuracy on complex business queries
+- Fine-tuned PHI-3 Mini & Mistral (LoRA + quantization) staying under 3 GB on a 4 GB VPS
+- Self-hosted open-source stack: Odoo + LangChain + Ollama for SME clients
+
+**AI Engineer Intern (PFE) — Unisphere / Manna Aerospace** *(Feb – Jun 2026)*
+- ML pipeline processing 17,000+ drone flights fully automated; 275 flights in 19s via multiprocessing
+- XGBoost flight-phase classifier — 92% accuracy; physic-informed energy model cut prediction error by 57%
+- FastAPI microservice + React dashboard with hot-swappable model registry architecture
 
 ---
 
@@ -31,18 +46,20 @@ I design and deploy end-to-end AI systems — training CNNs, RNNs, and LSTMs and
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🦴 **Bone Fracture Detector** | Quantized CNN detecting fractures from X-rays in real-time on mobile | `Flutter` `TFLite` `OpenCV` |
-| 🌿 **AIgroFarm** ★ *Hackathon Winner* | Crop analysis & disease prediction pipeline | `Python` `Flask` `OpenCV` |
-| ⚙️ **TurboFan RUL Prediction** | Remaining useful life on NASA C-MAPSS with LSTM | `Python` `LSTM` `Streamlit` |
+| 🔍 **Car-Finder** | LLM Text-to-SQL engine — NL queries → optimized SQL, 97% accuracy on real automotive DB | `LLM` `SQL` `Python` |
+| 🦴 **Bone Fracture Detector** | CNN detecting fractures from X-rays in real-time on mobile (93% acc) | `Flutter` `TFLite` `OpenCV` |
+| ⚙️ **TurboFan RUL Prediction** | LSTM RUL prediction on NASA C-MAPSS — full MLOps cycle, Flask API | `LSTM` `Flask` `Streamlit` |
+| 🌿 **AIgroFarm** ★ *Hackathon Winner* | Smart crop analysis & disease prediction pipeline | `Python` `Flask` `OpenCV` |
 | 💬 **Real Estate NLP Chatbot** | Rasa chatbot with web scraping and NLU for property search | `Rasa` `Python` `NLP` |
-| 🤖 **Gesture AI Tool** | Hand gesture recognition for real-time video control | `MediaPipe` `OpenCV` |
 
 ---
 
 ## Certifications
 
-- ✅ **Andrew Ng ML Specialization**
-- ✅ **NVIDIA** — Computer Vision for Industrial Inspection
+- ✅ **Building RAG Agents with LLMs** — NVIDIA Deep Learning Institute
+- ✅ **Generative AI & Prompt Engineering** — DataCamp
+- ✅ **Machine Learning Specialization** — Coursera / DeepLearning.AI
+- ✅ **Computer Vision for Industrial Inspection** — NVIDIA DLI
 
 ---
 
