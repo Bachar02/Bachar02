@@ -36,7 +36,7 @@ I build and ship end-to-end AI systems — from fine-tuning LLMs and architectin
 - Self-hosted open-source stack: Odoo + LangChain + Ollama for SME clients
 
 **AI Engineer Intern (PFE) — Unisphere / Manna Aerospace** *(Feb – Jun 2026)*
-- ML pipeline processing 17,000+ drone flights fully automated; 275 flights in 19s via multiprocessing
+- ML pipeline processing drone flights fully automated
 - XGBoost flight-phase classifier — 92% accuracy; physic-informed energy model cut prediction error by 57%
 - FastAPI microservice + React dashboard with hot-swappable model registry architecture
 
