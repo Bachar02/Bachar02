@@ -35,9 +35,9 @@ I build and ship end-to-end AI systems — from fine-tuning LLMs and architectin
 - Fine-tuned PHI-3 Mini & Mistral (LoRA + quantization) staying under 3 GB on a 4 GB VPS
 - Self-hosted open-source stack: Odoo + LangChain + Ollama for SME clients
 
-**AI Engineer Intern (PFE) — Unisphere / Manna Aerospace** *(Feb – Jun 2026)*
+**AI Engineer Intern (PFE) — Unisphere, Konstanz** *(Feb – Jun 2026)*
 - ML pipeline processing drone flights fully automated
-- XGBoost flight-phase classifier — 92% accuracy; physic-informed energy model cut prediction error by 57%
+- TCN flight-phase classifier — 87% accuracy
 - FastAPI microservice + React dashboard with hot-swappable model registry architecture
 
 ---
