@@ -23,7 +23,7 @@ I build and ship end-to-end AI systems — from fine-tuning LLMs and architectin
 |---|---|
 | **LLMs & Generative AI** | Fine-tuned PHI-3 Mini & Mistral (LoRA + quantization, <3 GB VRAM) · LangChain · Ollama · Text-to-SQL (97% acc) |
 | **RAG Pipelines** | RAG system design & deployment · NVIDIA DLI certified · Hugging Face · Vector DBs |
-| **ML Engineering & MLOps** | FastAPI microservices · Docker · MLflow · CI/CD · model registries · 17k+ flights automated |
+| **ML Engineering & MLOps** | FastAPI microservices · Docker · MLflow · CI/CD · model registries |
 | **Computer Vision & Sequences** | CNN (93% acc) · LSTM/RNN · TFLite mobile · OpenCV · MediaPipe · XGBoost |
 
 ---
