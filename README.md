@@ -1,6 +1,3 @@
-<!-- OPEN TO WORK -->
-> `🟢 OPEN TO WORK` — ML/AI Engineer · available from mid-October 2026 
----
 # Bachar Bouguerra Zina
 **AI/ML Engineer** · Diplôme d'Ingénieur (AI), INSAT Tunisia '26 · 3× National Hackathon Winner
 ![LLM](https://img.shields.io/badge/LLMs%20%26%20RAG-D85A30?style=flat-square&logoColor=white)
